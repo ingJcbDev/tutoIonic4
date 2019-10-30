@@ -1,0 +1,77 @@
+https://nodejs.org/es/
+https://www.typescriptlang.org/index.html#download-links
+https://angular.io/start/deployment
+https://www.getpostman.com/downloads/
+https://visualstudio.microsoft.com/es/
+https://ionicframework.com/docs/installation/cli
+
+-- para saber si node.js esta instalado
+
+node -v
+
+-- para instalar typescript
+
+npm install -g typescript
+
+-- instalar angular
+
+npm install -g @angular/cli
+
+-- instalar ionic
+
+npm install -g ionic
+
+-- instalar ionic mas cordova
+
+npm install -g ionic cordova
+
+-- instalar cordova
+
+npm install -g cordova
+
+
+-- Instalaciones necesarias
+
+Google Chrome
+https://www.google.com/chrome/
+Nodejs
+https://nodejs.org/es/
+TypeScript
+https://www.typescriptlang.org/
+AngularCLI
+https://cli.angular.io/
+Para el reforzamiento de Angular
+Postman
+https://www.getpostman.com/
+Recomendado - Visual Studio Code
+https://code.visualstudio.com/
+Ver otro PDF con las extensiones sugeridas
+Ionic y Cordova
+https://ionicframework.com/
+Android Studio
+https://developer.android.com/studio/
+Xcode
+Desde la Mac App Store
+
+-- Extensiones de Visual Studio Code 
+
+1. .jshintrc Generator
+2. AB HTML Formatter
+3. Angular 7 Snippets
+4. Angular Language Service
+5. Angular2-inline
+6. Auto Close Tag
+7. Bootstrap 4, Font Awesome 4
+8. Gist Extension
+9. HTML CSS Support
+10. Ionic 4 snippets
+11. JavaScript ( ES6 ) code snippets
+12. jshint
+13. JSON to TS
+14. Material Icon Theme
+15. MySQL-inline-decorator
+16. Prettier - Code formatter
+17. PWA Tools
+18. Terminal
+19. TSLint
+20. TypeScript Importer
