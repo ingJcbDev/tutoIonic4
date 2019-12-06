@@ -1,0 +1,47 @@
+
+-- para instalar ionic
+
+npm install -g ionic
+
+-- iniciar proyecto
+
+ionic start myApp
+
+-- Para iniciar el servidor nos pocisionamos en el proyecto 
+
+ionic serve
+
+
+iniciar proyecto -- tabs
+
+ionic start myApp tabs
+
+-- para ejecutar el entorno desarrollador 
+
+ionic serve --lab
+
+
+--------------------------------------------------------------- para angular -------------------------
+
+-- crear un nuevo proyecto en angular
+
+ng new nombreDelProyecto
+
+-- pregunta si vamos a utilizar routing ? yes/no 
+-- seleccionar CSS esta bn
+
+-- para iniciar el servidor 
+
+ng serve -o
+
+-- crear componentes 
+-- (--dry-run) para saber que va hacer
+ng g c pages/about --dry-run
+
+-- para generar 
+ng g c pages/about
+
+-- crear routing 
+ng g m appRouting --dry-run
+
+
