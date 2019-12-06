@@ -41,7 +41,18 @@ ng g c pages/about --dry-run
 -- para generar 
 ng g c pages/about
 
--- crear routing 
-ng g m appRouting --dry-run
+-- crear routing donde estoy ubicado (para ver que va hacer)
+
+ng g m appRouting --flat --dry-run
+
+-- para crearlo routing 
+
+ng g m appRouting --flat
+
+-- crear componente menu indepeniente
+
+ng g c components/menu 
+
+
 
 
