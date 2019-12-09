@@ -22,6 +22,10 @@ ionic serve --lab
 
 
 --------------------------------------------------------------- para angular -------------------------
+-- g =  generar
+-- m = modulo
+-- c = componente
+-- s = servicio
 
 -- crear un nuevo proyecto en angular
 
@@ -49,9 +53,15 @@ ng g m appRouting --flat --dry-run
 
 ng g m appRouting --flat
 
+--crear routing
+
+ng g m pages/posts --routing
+
 -- crear componente menu indepeniente
 
-ng g c components/menu 
+ng g c components/menu
+
+-- crear service 
 
 
 
